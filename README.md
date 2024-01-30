@@ -1,13 +1,12 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Mynssem 👋
 
-I'm a passionate PHP developer and [any additional roles or technologies you want to highlight]. Welcome to my GitHub profile! 🚀
+I'm a passionate PHP developer. Welcome to my GitHub profile! 🚀
 
-- 🔭 I’m currently working on [current project or focus]
-- 🌱 I’m currently learning [current technology or skill you're improving]
-- 👯 I’m looking to collaborate on [projects or initiatives you're interested in]
-- 💬 Ask me about [topics you're knowledgeable about]
-- 📫 How to reach me: [your.email@example.com]
-- 😄 Pronouns: [he/him, she/her, they/them]
+- 🔭 I’m currently working Currently, I'm not involved in any specific projects.
+- 🌱 I’m currently learning PHP
+- 👯 I’m looking to collaborate on projects
+- 💬 Ask me about PHP
+- 📫 How to reach me: gabrielmynssem.e@gmail.com
 
 ## Connect with Me
 
