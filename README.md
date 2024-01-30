@@ -2,7 +2,7 @@
 
 I'm a passionate PHP developer. Welcome to my GitHub profile! 🚀
 
-- 🔭 I’m currently working Currently, I'm not involved in any specific projects.
+- 🔭 Currently, I'm not involved in any specific projects.
 - 🌱 I’m currently learning PHP
 - 👯 I’m looking to collaborate on projects
 - 💬 Ask me about PHP
