@@ -17,7 +17,7 @@ I'm a passionate PHP developer. Welcome to my GitHub profile! 🚀
 ## Languages and Tools
 
 - PHP
-- [List other programming languages or tools you work with]
+- Java
 
 ## GitHub Stats
 
@@ -31,13 +31,9 @@ I'm a passionate PHP developer. Welcome to my GitHub profile! 🚀
 
 ## Projects
 
-### [Project Name 1](link-to-project-1)
+### https://github.com/mynssemM/chess-system-java
 
-Brief description of the project.
-
-### [Project Name 2](link-to-project-2)
-
-Brief description of the project.
+Play Chess
 
 ## Blog Posts
 
