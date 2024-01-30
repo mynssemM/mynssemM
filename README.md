@@ -21,7 +21,7 @@ I'm a passionate PHP developer. Welcome to my GitHub profile! 🚀
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true)
+![Mynssem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mynssemM&show_icons=true&hide_border=true)
 
 ## Recent Activity
 
