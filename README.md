@@ -11,7 +11,6 @@ I'm a passionate PHP developer. Welcome to my GitHub profile! 🚀
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/gabriel-mynssem)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/gabriel_my3643)
 [![Website](https://img.shields.io/badge/Website-Visit-brightgreen)](https://yourwebsite.com)
 
 ## Languages and Tools
